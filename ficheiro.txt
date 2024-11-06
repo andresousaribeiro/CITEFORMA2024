@@ -7,4 +7,8 @@ ola Andre
 
 Ola Ribeiro
 
+<<<<<<< HEAD
+sergio
+=======
 Tiago was here
+>>>>>>> dd48508e519a838d3a998510bc2b41b876d053cd
